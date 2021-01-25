@@ -1,2 +1,2 @@
 # GithubTutorial
-- This is a tutorial for git an github.
+- This is a tutorial for git an github for beginners.
